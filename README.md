@@ -29,8 +29,6 @@ npm install formik
 
 To use this component in your React app, simply import and render it:
 
-javascriptCopy code:
-
 ```javascript 
 import App from './path-to-component-file'; function YourComponent() { return ( \<div\> \<App /\> // ... other components or content \</div\> ); }
 ```
