@@ -13,15 +13,19 @@ This is a simple React component that demonstrates the usage of Formik for creat
 
 1. **Ensure you have React and ReactDOM installed** in your project:
 
+```bash
 shCopy code
 
 npm install react react-dom
+```
 
 1. **Install the Formik library** :
 
+```bash
 shCopy code
 
 npm install formik
+```
 
 1. Import the **App** component from the provided code into your desired location and utilize it as needed.
 
